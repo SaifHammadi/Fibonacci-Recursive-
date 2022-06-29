@@ -1,3 +1,4 @@
+// Any better/cleaner solution for this? the help is gonna be so helpful and god bless you.
 function fibo(n) {
     if (n === 2) {
         return [0, 1]
